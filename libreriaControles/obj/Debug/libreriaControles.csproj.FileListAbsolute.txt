@@ -1,0 +1,13 @@
+C:\Users\DAM_Christian\source\repos\libreriaControles\libreriaControles\bin\Debug\libreriaControles.pdb
+C:\Users\DAM_Christian\source\repos\libreriaControles\libreriaControles\obj\Debug\libreriaControles.csproj.AssemblyReference.cache
+C:\Users\DAM_Christian\source\repos\libreriaControles\libreriaControles\obj\Debug\libreriaControles.LoginPage.resources
+C:\Users\DAM_Christian\source\repos\libreriaControles\libreriaControles\obj\Debug\libreriaControles.Properties.Resources.resources
+C:\Users\DAM_Christian\source\repos\libreriaControles\libreriaControles\obj\Debug\libreriaControles.selectorFechaHora.resources
+C:\Users\DAM_Christian\source\repos\libreriaControles\libreriaControles\obj\Debug\libreriaControles.csproj.GenerateResource.cache
+C:\Users\DAM_Christian\source\repos\libreriaControles\libreriaControles\obj\Debug\libreriaControles.csproj.CoreCompileInputs.cache
+C:\Users\DAM_Christian\source\repos\libreriaControles\libreriaControles\obj\Debug\libreriaControles.pdb
+C:\Users\DAM_Christian\source\repos\libreriaControles\libreriaControles\obj\Debug\libreriaControles.Form1.resources
+C:\Users\DAM_Christian\source\repos\libreriaControles\libreriaControles\obj\Debug\libreriaControles.botonCircular.resources
+C:\Users\DAM_Christian\source\repos\libreriaControles\libreriaControles\bin\Debug\libreriaControles.dll.config
+C:\Users\DAM_Christian\source\repos\libreriaControles\libreriaControles\bin\Debug\libreriaControles.dll
+C:\Users\DAM_Christian\source\repos\libreriaControles\libreriaControles\obj\Debug\libreriaControles.dll
